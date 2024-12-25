@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run C Program",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/RNStoDNW.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true
+        }
+    ]
+}
